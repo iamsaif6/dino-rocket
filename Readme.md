@@ -2,16 +2,13 @@
 
 <br>
 
-<img src="https://github.com/iamsaif6/azzero-v2/blob/master/azzero.gif" width="800px" />
+<img src="https://github.com/iamsaif6/dino-rocket/blob/master/Dinerocket.gif" width="800px" />
 
-> ## Checkout Homepage : [Click Here](https://iamsaif6.github.io/azzero-v2 "Azzero")
+> ## Live Preview : [Click Here](https://iamsaif6.github.io/dino-rocket/ "Dino Rocket")
 
-> ### Here are the links for other 4 page :
+> ### Home Page Version 2
 
-- [ Blog Page ](https://iamsaif6.github.io/azzero-v2/blog.html "Azzero")
-- [ Homepage 2 ](https://iamsaif6.github.io/azzero-v2/index2.html "Azzero")
-- [ Service Page ](https://iamsaif6.github.io/azzero-v2/servizi.html "Azzero")
-- [ Socity Page ](https://iamsaif6.github.io/azzero-v2/society.html "Azzero")
+- [ Homepage v2 ](https://iamsaif6.github.io/dino-rocket/index%20-%20Copy.html "Dino Rocket")
 
  <br>
 
